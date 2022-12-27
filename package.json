@@ -10,14 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyclic-software/express-hello-world.git"
+    "url": "git+https://github.com/chitawebui131/express-hello-world.git"
   },
-  "author": "Cyclic Software",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cyclic-software/express-hello-world/issues"
-  },
-  "homepage": "https://github.com/cyclic-software/express-hello-world#readme",
+
+  "homepage": "https://github.com/chitawebui131/express-hello-world/tree/main#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
