@@ -1,4 +1,4 @@
-# Cyclic - Express Hello World
+# Cyclic - Express Hello SoftServe
 
 This is a basic starter Expressjs app with:
 
